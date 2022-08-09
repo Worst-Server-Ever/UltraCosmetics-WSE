@@ -203,6 +203,9 @@ public class HatType extends CosmeticType<Hat> {
         new HatType("b9295734195d2c7fa389b98757e9686ce6437c16c58bdf2b4cd538389b5912", "Z", "&7&oThe twenty-sixth letter in the alphabet!");
         new HatType("357b32c2933bebcd6502cbf406f7df996c8e46e7c6cbfefc5dcdc2fbf5bb54bb", "Testhat", "&7&oA really cool hat used for testing");
         new HatType("dce36f87c1080e56de38243473169815833916d7abe7028ed6361cf6be9ae1f7", "Pancake", "&7&oPart of a complete breakfast");
+        new HatType("debf2b113f4a81370a1cf9d2504e8756b66deef79e9433187da774b96c9f35ba", "Axolotl", "&7&oThe cutest predetor");
+        new HatType("54bdf5ba6289b29e27c57db1ec7f76151c39492d409268e00a9838e8c963159", "Neondragon", "&7&ohonnestly, I don't even know");
+        new HatType("13d78a309653c954b1094de75b153d26e74a1fb93ff58cf59930b69abda1", "Minion", "&7&oEmbrace your inner minion");
 
         ConfigurationSection hats = getCustomConfig(Category.HATS);
         if (hats == null) return;
