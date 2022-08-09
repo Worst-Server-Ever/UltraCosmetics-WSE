@@ -932,6 +932,12 @@ Hats:
   Z:
     Name: '&4&lZ'
     Description: '&7&oThe twenty-sixth letter in the alphabet!'
+  Testhat:
+    Name: '&b&lTest Hat'
+    Description: '&7&oI like testing things but I kinda sorta know how to get the texture file'
+  Pancake:
+    Name: '&6&lPancake'
+    Description: '&7&oPart of a complete breakfast'
   Must-Remove-Hat: '%prefix% &c&lYou must remove your helmet to equip a hat!'
 Suits:
   Rave:
